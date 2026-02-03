@@ -1,4 +1,4 @@
-<img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/d38350ad-8a44-4796-a5d8-06d41669e7b8" /># snake-game
+# snake-game
 I love snakes.<br>
 We use java implement.<br>
 
